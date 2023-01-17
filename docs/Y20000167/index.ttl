@@ -1,0 +1,30 @@
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/completeness> "complete" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/currentlocation> "other" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/currentsetting> "in display" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/disclosedAt> <http://lod.ogham.link/data/OS40000104> .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/discovery_who> "Reeves" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/discovery_year> "1884" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/exactMatch> <http://www.wikidata.org/entity/Q106675479> .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/form> "pilsc" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/h_status> "actual" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/hasCollection> <http://lod.ogham.link/data/Y50000311> .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/height> "1.37"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/preservation> "some" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/preservation_note> "Macalister/1945, 298, `the top broken away`." .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/t_status> "actual" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/thickness> "0.41"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/w_status> "actual" .
+<http://lod.ogham.link/data/Y20000167> <http://ontology.ogham.link/width> "0.38"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/elements/1.1/identifier> "DRCOM/1" .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/deed.de> .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/terms/rightsHolder> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/terms/rightsHolder> <http://www.wikidata.org/entity/Q106628017> .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone> .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone_CISP> .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/2000/01/rdf-schema#comment> "Ogham Stone, Northern Ireland"@en .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/2000/01/rdf-schema#label> "DRCOM/1 (Ogham Stone Concept by CISP)"@en .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/ns/prov#wasAttributedTo> <http://lod.ogham.link/data/PythonStonesCIIC> .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> .
+<http://lod.ogham.link/data/Y20000167> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://lod.ogham.link/data/Y20000167_activity> .
+<http://lod.ogham.link/data/Y20000167> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by/4.0> .

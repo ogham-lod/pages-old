@@ -1,0 +1,30 @@
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/completeness> "inc" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/currentlocation> "on site" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/currentsetting> "in ground" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/disclosedAt> <http://lod.ogham.link/data/OS40000110> .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/discovery_who> "C. Elcock" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/discovery_year> "1888" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/exactMatch> <http://www.wikidata.org/entity/Q106675501> .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/form> "pilsc" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/h_status> "visible" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/hasCollection> <http://lod.ogham.link/data/Y50000313> .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/height> "1.6"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/preservation> "some" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/preservation_note> "Macalister/1945, 301, `Scores, meaningless, and probably produced by tool-sharpening, are on all the angles, but only those on the N.W. angle are capable of being grouped into letters...A hole weathered in the surface of the stone has damaged the V.`" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/t_status> "actual" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/thickness> "0.36"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/w_status> "actual" .
+<http://lod.ogham.link/data/Y20000187> <http://ontology.ogham.link/width> "0.48"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/elements/1.1/identifier> "DUNGM/1" .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/deed.de> .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/terms/rightsHolder> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/terms/rightsHolder> <http://www.wikidata.org/entity/Q106628017> .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone> .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone_CISP> .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/2000/01/rdf-schema#comment> "Ogham Stone, Ireland"@en .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/2000/01/rdf-schema#label> "DUNGM/1 (Ogham Stone Concept by CISP)"@en .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/ns/prov#wasAttributedTo> <http://lod.ogham.link/data/PythonStonesCIIC> .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> .
+<http://lod.ogham.link/data/Y20000187> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://lod.ogham.link/data/Y20000187_activity> .
+<http://lod.ogham.link/data/Y20000187> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by/4.0> .

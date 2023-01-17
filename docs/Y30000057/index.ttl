@@ -1,0 +1,20 @@
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/depth> "0.2"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/disclosedAt> <http://lod.ogham.link/data/OS40000077> .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/exactMatch> <http://www.wikidata.org/entity/Q106674231> .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/hasCollection> <http://lod.ogham.link/data/Y50000197> .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/height> "2.1"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/smr_no> "KE065-078003-" .
+<http://lod.ogham.link/data/Y30000057> <http://ontology.ogham.link/width> "0.52"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/elements/1.1/identifier> "197. Coolmagort I" .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/ie/deed.en_US> .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/terms/rightsHolder> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/terms/rightsHolder> <http://www.wikidata.org/entity/Q106674066> .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone> .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone_O3D> .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/2000/01/rdf-schema#comment> "Ogham Stone, Ireland"@en .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/2000/01/rdf-schema#label> "197. Coolmagort I (Ogham Stone Concept by the Ogham in 3D Project)"@en .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/ns/prov#wasAttributedTo> <http://lod.ogham.link/data/PythonStonesCIIC> .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> .
+<http://lod.ogham.link/data/Y30000057> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://lod.ogham.link/data/Y30000057_activity> .
+<http://lod.ogham.link/data/Y30000057> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by/4.0> .

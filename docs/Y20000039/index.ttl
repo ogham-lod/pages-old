@@ -1,0 +1,23 @@
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/completeness> "inc" .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/currentlocation> "earliest" .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/currentsetting> "in ground" .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/disclosedAt> <http://lod.ogham.link/data/OS40000031> .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/discovery_who> "Barry, E., Rev." .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/discovery_year> "1891" .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/exactMatch> <http://www.wikidata.org/entity/Q106675337> .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/form> "inc" .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/hasCollection> <http://lod.ogham.link/data/Y50000084> .
+<http://lod.ogham.link/data/Y20000039> <http://ontology.ogham.link/preservation> "inc" .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/elements/1.1/identifier> "BAKNK/3" .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/deed.de> .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/terms/rightsHolder> <https://orcid.org/0000-0002-3246-3531> .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/terms/rightsHolder> <http://www.wikidata.org/entity/Q106628017> .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone> .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ontology.ogham.link/OghamStone_CISP> .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/2000/01/rdf-schema#comment> "Ogham Stone, Ireland"@en .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/2000/01/rdf-schema#label> "BAKNK/3 (Ogham Stone Concept by CISP)"@en .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/ns/prov#wasAttributedTo> <http://lod.ogham.link/data/PythonStonesCIIC> .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/ogi-ogham/ogham-datav1/blob/main/csv/ogham/og_stones.csv> .
+<http://lod.ogham.link/data/Y20000039> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://lod.ogham.link/data/Y20000039_activity> .
+<http://lod.ogham.link/data/Y20000039> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by/4.0> .
